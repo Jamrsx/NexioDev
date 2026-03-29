@@ -1,4 +1,4 @@
-export default function ContactLayout({
+export default function TermsLayout({
   children,
 }: {
   children: React.ReactNode;
